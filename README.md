@@ -1,19 +1,23 @@
 <p align="center">
-  <a href="http://aikenahac.com/" target="_blank"><img src="https://s3.eu-central-1.wasabisys.com/socialko/logo.svg" style="border-radius: 25px" width="200" alt="Nest Logo" /></a>
+  <a href="http://aikenahac.com/" target="_blank"><img src="https://s3.eu-central-1.wasabisys.com/socialko/logo.svg" style="border-radius: 25px" width="200" alt="Socialko Logo" /></a>
 </p>
 
 <h1 align="center">Socialko</h1>
 
 ---
 
+### [Organization](https://github.com/SocialkoApp)
+
 ## Code Repositories
 
-[Organization](https://github.com/SocialkoApp)
+### [Backend](https://github.com/SocialkoApp/backend)
+Backend of the application, built with TypeScript and NestJS
 
-[Backend](https://github.com/SocialkoApp/backend)
-[App](https://github.com/SocialkoApp/app)
-[Account Management](https://github.com/SocialkoApp/account-management)
+### [App](https://github.com/SocialkoApp/app)
+Mobile, desktop and web application repository, built with Flutter.
 
+### [Account Management](https://github.com/SocialkoApp/account-management)
+Account management repository, application for managing password reset and email confirmation via email links, built with React.
 
 ## Background
 
